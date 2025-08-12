@@ -5,7 +5,7 @@
 //  Created by X on 8/12/25.
 //
 #include "StringUtility.h"
-#include <stdio.h>
+#include <cstdio>
 
 using namespace X;
 
