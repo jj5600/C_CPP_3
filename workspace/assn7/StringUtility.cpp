@@ -5,8 +5,6 @@
 //  Created by X on 8/12/25.
 //
 #include "StringUtility.h"
-#include <cstdio>
-
 using namespace X;
 
 // join accepts a reference to a string vector called Strings and a char: delim
